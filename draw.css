@@ -1,0 +1,95 @@
+.face{
+   
+    position:relative;
+    justify-content: center;
+    align-items: center;
+    top: 200px;
+    left: 320px;
+    height: 300px;
+    width: 270px;
+background-color:white;
+border-radius: 50%;
+}
+body{
+
+    background-color: black;
+}
+.eye{
+ position:absolute;
+ height: 100px;
+ width: 100px;
+ left: 50px;
+ top: 50px;
+}
+.eye1{
+    position: absolute;
+    background-color: black;
+    height: 50px;
+    width: 50px;
+    top: auto;
+    border-radius: 50%;
+}
+.eye2{
+    position: absolute;
+    background-color: black;
+    height: 50px;
+    width: 50px;
+    top: auto;
+    left: 120px;
+    border-radius: 50%;
+}
+.eb1{
+    position: absolute;
+    background-color: white;
+    height: 20px;
+    width: 20px;
+    top: 30%;
+    left: 30%;
+    border-radius: 50%;
+}
+.eb2{
+    position: absolute;
+    background-color: white;
+    height: 20px;
+    width: 20px;
+    top: 30%;
+    left: 30%;
+    border-radius: 50%;
+}
+.mouth{
+    position: absolute;
+    align-items: center;
+    height: 80px;
+    width: 150px;
+    border-radius: 1px 1px 100px 100px;
+    top: 200px;
+    left: 60px;
+    background-color: black;
+}
+.teeth{
+    position: absolute;
+    height: 30px;
+    width: 20px;
+    left: 20px;
+    border-radius: 1px 1px 100% 100%;
+    background-color: white;
+}
+.hat{
+    position: relative;
+    height: 20px;
+    width: 200px;
+    left: 350px;
+    top: 200px;
+    background-color: white;
+    border-radius: 50%;
+}
+.ring{
+    position: absolute;
+    height: 10px;
+    width: 180px;
+    left: 10px;
+    top: 5px;
+    background-color:black;
+    border-radius: 50%;
+}
+
